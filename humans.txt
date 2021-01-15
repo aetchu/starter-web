@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Anna E <twitter>
+    Anna e
+    enna6@yahoo.ca
+    Devops Engineer
 
 # THANKS
 
