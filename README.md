@@ -6,7 +6,8 @@ A of lectures are already submitted
 
 Sample website with plenty of files for demos
 This is the famous and one of the Best Training course of Devops 
-Adding Git rebase lectures in Git advance.
+Adding Git rebase lectures in Git advance. we have done 
+so much of work together
 
 ## Contributon
 Fork the repor and raise pul rwquest for review
